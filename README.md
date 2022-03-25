@@ -1,1 +1,1 @@
-# Computer-Vision---Rock-Paper-Scissors
+# Computer-Vision-Rock-Paper-Scissors
